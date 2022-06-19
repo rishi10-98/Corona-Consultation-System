@@ -1,0 +1,108 @@
+
+.footer {
+  background-image: url('https://glancyconsultants.com/wp-content/uploads/2018/08/footer-background-v2.jpg');
+}
+ footer, header{
+  display: block;
+}
+
+.footer-top {
+    padding-bottom: 10px;
+}
+.footer-top {
+  padding: 40px 0;
+  padding-top: 40px;
+  padding-right: 0px;
+  padding-bottom: 40px;
+  padding-left: 0px;
+  color: #fff;
+}
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+}
+.footer-widget {
+  margin-bottom: 30px;
+}
+li {
+  display: list-item;
+  text-align: -webkit-match-parent;
+}
+.footer-title {
+  color: #fff;
+  font-size: 20px;
+  font-weight: 700;
+  margin-bottom: 30px;
+  text-transform: capitalize;
+}
+.footer-widget.footer-menu ul {
+  list-style: none;
+  list-style-position: initial;
+  list-style-image: initial;
+  list-style-type: none;
+  margin: 0;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding: 0;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  outline: none;
+  outline-color: initial;
+  outline-style: none;
+  outline-width: initial;
+}
+.ul {
+  display: block;
+  list-style-type: disc;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 40px;
+}
+.footer-bottom .copyright {
+  border-top: 1.5px solid #367ff5;
+  padding: 30px 0;
+  
+}
+.mb-0, .my-0 {
+  margin-bottom: 0!important;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+.footer .footer-menu ul li a {
+  color: #fff;
+  font-size: 15px;
+  padding-left: 20px;
+  position: relative;
+  transition: all .4s ease 0s;
+}
+.footer .footer-menu ul li a::before {
+  content: "\f101";
+  font-family: "font awesome 5 free";
+  font-weight: 900;
+  left: 0;
+  margin-right: 5px;
+  position: absolute;
+  top: 0;
+}
+.footer .footer-menu ul li {
+  margin-bottom: 10px;
+  position: relative;
+  color: #fff;
+}
+.footer .footer-bottom p{
+  color: #fff;
+  text-align: center;
+}
+
+ 
